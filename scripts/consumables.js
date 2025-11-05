@@ -26,7 +26,7 @@ export function createDot() {
         if (event.propertyName == 'left'){
             increaseScore();
             showFloatingText(gameState.dotValue.times(gameState.dotMulti), position/2+20, gameContainer.clientHeight/2-22);
-            //playEatDotSound();
+            playEatDotSound();
         } 
     });
 }
