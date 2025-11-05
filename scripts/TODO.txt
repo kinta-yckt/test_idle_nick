@@ -1,0 +1,16 @@
+Issues:
+Autofeed speed not resetting
+Nom starting value
+
+
+Features:
+
+Clean ups:
+Convert upgrades to classes. methods would include cost increase, level increase, purchased
+Optimise display updates
+
+
+
+
+
+
